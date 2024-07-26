@@ -2,7 +2,7 @@
 
 I'm currently a PhD candidate in the School of Computer Science Engineering at UNSW Sydney.
 
-Homepage: [www.xbliu.cn](https://jameszhou-gl.github.io/)
+Homepage: [https://jameszhou-gl.github.io/](https://jameszhou-gl.github.io/)
 
 Email:  jameszhou.ustc AT gmail.com
 
