@@ -1,9 +1,9 @@
-## Welcome to Xiaobin Liu's Home Pages
+## Welcome to Guanglin Zhou's Home Pages
 
-I received the B.E. degree from Nankai University in 2016, and the Ph.D. degree from Peking University in Jan. 2022. I joined PCG, Tencent in Feb. 2022. My research interests includes mulitmedia retrieval, object re-identification, and deep metric learning.
+I'm currently a PhD candidate in the School of Computer Science Engineering at UNSW Sydney.
 
-Homepage: www.xbliu.cn
+Homepage: [www.xbliu.cn](https://jameszhou-gl.github.io/)
 
-Email:  liu-xb AT qq.com
+Email:  jameszhou.ustc AT gmail.com
 
-This homepage is forked and edited from https://github.com/artemsheludko/flexible-jekyll. Welcome to fork the source code of my homepage.
+This homepage is forked and edited from https://github.com/liu-xb/liu-xb.github.io. Welcome to fork the source code of my homepage.
